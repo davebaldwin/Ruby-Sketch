@@ -1,0 +1,133 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 555A6B991181C35B00FA7FEC /* Ruby Sketch */;
+		activeTarget = 8D1107260486CEB800E47090 /* Ruby Sketch */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Ruby Sketch */,
+		);
+		breakpoints = (
+			5505385D118235FA00A7F5A4 /* main.m:13 */,
+			556C6A8411FF84B8003640CB /* objc_assign_ivar_error */,
+		);
+		codeSenseManager = 555A6BA51181C36300FA7FEC /* Code sense */;
+		executables = (
+			555A6B991181C35B00FA7FEC /* Ruby Sketch */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 302443760;
+			PBXWorkspaceStateSaveDate = 302443760;
+		};
+		sourceControlManager = 555A6BA41181C36300FA7FEC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 285}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{77, 177}";
+			sepNavWindowFrame = "{{572, 261}, {1106, 881}}";
+		};
+	};
+	5505385D118235FA00A7F5A4 /* main.m:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = "Ruby Sketch";
+		modificationTime = 301958332.512574;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	554D664A118201B200BBBEFB /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 292}, {1106, 881}}";
+		};
+	};
+	555A6B991181C35B00FA7FEC /* Ruby Sketch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Ruby Sketch";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	555A6BA41181C36300FA7FEC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	555A6BA51181C36300FA7FEC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	556C6A8411FF84B8003640CB /* objc_assign_ivar_error */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 1;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 301958370.596361;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+		symbolName = objc_assign_ivar_error;
+	};
+	5591F5501189D7FE005CABBA /* SKTDocument.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1047, 18107}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{17639, 2430}";
+			sepNavWindowFrame = "{{19, 292}, {1106, 881}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Ruby Sketch */ = {
+		activeExec = 0;
+		executables = (
+			555A6B991181C35B00FA7FEC /* Ruby Sketch */,
+		);
+	};
+}
