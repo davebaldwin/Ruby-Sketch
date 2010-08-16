@@ -11,4 +11,6 @@ The MacRuby version closely follows the Objective C version  with the following 
 
 I am adding in no licensing, copying or use restrictions.  This is unsupported code and you use at your own risk.  Apple's licensing restrictions still apply.
 
+The xcode project can be used to build and run Ruby-Sketch as normal.  If you prefer not to use xcode then  the Rakefile can be used to build and run the app.  This works with macrake as well as rake.
+
 Dave Baldwin.
